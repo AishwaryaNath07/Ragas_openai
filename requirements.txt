@@ -1,0 +1,17 @@
+langchain-text-splitters
+langchain-community
+opencensus
+langchain
+langchain-openai
+openai
+tiktoken
+unstructured
+unstructured[docx]
+unstructured[xlsx]
+python-dotenv
+pandas
+ragas
+pytest
+python_docx
+openpyxl
+requests
