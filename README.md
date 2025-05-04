@@ -14,6 +14,7 @@ Run pip install -r requirments.txt to download all depenedencies
 
 ## Usage
 run each file in VS code with command :python dataset_eval.py
+add your OPEN_API_KEY in .env file
 
 ## Support
 Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
